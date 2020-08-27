@@ -1,19 +1,19 @@
 title:              Song Space
-email:              zuppiy@seoultech.co.ac
+email:              zuppiy@seoultech.ac.kr
 description:        A Blog
 author:             Song Hyun Kim
 baseurl:            ""
 url:                "https://nxver.com"
 
 # Social Profiles
-twitter_username: 
+twitter_username:
 github_username:    songk1992
 facebook_username:
 instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-176601320-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
